@@ -39,9 +39,11 @@ padding: 20px;
 }
 .right button {
     background-color: yellow;
+   
 }
 .left button {
-    background-color: skyblue;
+    background-color:black;
+    border: black solid 0px;
 }
 /* Column styles */
 .column {
