@@ -67,7 +67,7 @@ overflow: hidden;
 .column {
     display: flex;
     height: 1200px;
-    width: 800px;
+    width: 100%;
     flex-direction: column;
     margin: 0 auto;
 }
