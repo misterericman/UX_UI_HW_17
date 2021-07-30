@@ -8,13 +8,14 @@
 /* Navigation styles */
 #navbar {
     display: flex;
+    width: 100%;
     background-color: black;
-padding: 20px;
+    padding: 20px;
 overflow: hidden;
 }
 /* Page content */
 .content {
-    padding: 16px;
+    padding: 20px;
   }
   
   /* The sticky class is added to the navbar with JS when it reaches its scroll position */
